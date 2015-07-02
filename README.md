@@ -25,7 +25,7 @@ The solution if you have a non-square logo is to use one of your fav / touch ico
 
 ### Tip #4. Pick the right organization type
 
-Pick the type that best describes your organization. Some types, such as [LocalBusiness], provide additional fields that you can set to improve your apperance.
+Pick the type that best describes your organization. Some types, such as [LocalBusiness](http://schema.org/LocalBusiness), provide additional fields that you can set to improve your apperance.
 
 Look for "More specific Types" towards the bottom of the [Organizatoin](http://schema.org/Organization) page to dig into this list.
 
