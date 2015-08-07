@@ -1,5 +1,22 @@
 Meta-help is a resource created to help you figure out all of the rules for managing your digital metadata. This is a collection of information created as we learn how to cope with all of the different ways you can mark up your digital life.
 
+## Facebook
+
+### Standard Tags
+
+  <meta property="og:site_name" content="">
+  <meta property="og:title" content="">
+  <meta property="og:image" content="">
+  <meta property="og:url" content="">
+  <meta property="og:description" content="">
+  <meta property="article:author" content="" />
+  <meta property="article:publisher" content="" />
+  <meta property="og:type" content="" />
+
+### Images
+
+Use images that are at least 1200 x 630 pixels for the best display on high resolution devices. At the minimum, you should use images that are 600 x 315 pixels to display link page posts with larger images. The minimum image size is 200 x 200 pixels.
+
 ## Schema.org your brand
 
 ### Tip #1. Use ld+json
@@ -31,4 +48,6 @@ Look for "More specific Types" towards the bottom of the [Organizatoin](http://s
 
 ## Resources
 
+* [Facebook Sharing Best Practices](https://developers.facebook.com/docs/sharing/best-practices)
+* [Facebook Open Graph URL Debugger](https://developers.facebook.com/tools/debug)
 * [Schema.org](http://schema.org/)
