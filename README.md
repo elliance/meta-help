@@ -4,14 +4,14 @@ Meta-help is a resource created to help you figure out all of the rules for mana
 
 ### Standard Tags
 
-  <meta property="og:site_name" content="">
-  <meta property="og:title" content="">
-  <meta property="og:image" content="">
-  <meta property="og:url" content="">
-  <meta property="og:description" content="">
-  <meta property="article:author" content="" />
-  <meta property="article:publisher" content="" />
-  <meta property="og:type" content="" />
+    <meta property="og:site_name" content="">
+    <meta property="og:title" content="">
+    <meta property="og:image" content="">
+    <meta property="og:url" content="">
+    <meta property="og:description" content="">
+    <meta property="article:author" content="" />
+    <meta property="article:publisher" content="" />
+    <meta property="og:type" content="" />
 
 ### Images
 
@@ -21,12 +21,12 @@ Use images that are at least 1200 x 630 pixels for the best display on high reso
 
 ### Standard Markup
 
-  <meta name="twitter:card" content="">
-  <meta name="twitter:site" content="">
-  <meta name="twitter:image" content=""><!-- Image must be less than 1MB in size -->
-  <meta name="twitter:creator" content="">
-  <meta name="twitter:title" content=""><!-- Max 70 chars -->
-  <meta name="twitter:description" content=""><!-- max 200 chars -->
+    <meta name="twitter:card" content="">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:image" content=""><!-- Image must be less than 1MB in size -->
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:title" content=""><!-- Max 70 chars -->
+    <meta name="twitter:description" content=""><!-- max 200 chars -->
 
 ### Card Types
 * summary
