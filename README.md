@@ -17,6 +17,23 @@ Meta-help is a resource created to help you figure out all of the rules for mana
 
 Use images that are at least 1200 x 630 pixels for the best display on high resolution devices. At the minimum, you should use images that are 600 x 315 pixels to display link page posts with larger images. The minimum image size is 200 x 200 pixels.
 
+## Twitter
+
+### Standard Markup
+
+  <meta name="twitter:card" content="">
+  <meta name="twitter:site" content="">
+  <meta name="twitter:image" content=""><!-- Image must be less than 1MB in size -->
+  <meta name="twitter:creator" content="">
+  <meta name="twitter:title" content=""><!-- Max 70 chars -->
+  <meta name="twitter:description" content=""><!-- max 200 chars -->
+
+### Card Types
+* summary
+* summary_large_image
+* app
+* player
+
 ## Schema.org your brand
 
 ### Tip #1. Use ld+json
@@ -50,4 +67,6 @@ Look for "More specific Types" towards the bottom of the [Organizatoin](http://s
 
 * [Facebook Sharing Best Practices](https://developers.facebook.com/docs/sharing/best-practices)
 * [Facebook Open Graph URL Debugger](https://developers.facebook.com/tools/debug)
+* [Twitter Markup Reference](https://dev.twitter.com/cards/markup)
+* [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 * [Schema.org](http://schema.org/)
