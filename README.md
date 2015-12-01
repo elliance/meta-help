@@ -34,6 +34,13 @@ Use images that are at least 1200 x 630 pixels for the best display on high reso
 * app
 * player
 
+## Pinterest
+
+### Standard Markup
+
+    <meta property="og:title" content="" />
+    <meta property="og:description" content="" />
+
 ## Schema.org your brand
 
 ### Tip #1. Use ld+json
@@ -70,3 +77,5 @@ Look for "More specific Types" towards the bottom of the [Organizatoin](http://s
 * [Twitter Markup Reference](https://dev.twitter.com/cards/markup)
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 * [Schema.org](http://schema.org/)
+* [Pinterest Rich Pins](https://developers.pinterest.com/docs/rich-pins/overview/)
+* [Pinterest Validator](https://developers.pinterest.com/docs/rich-pins/validator/)
