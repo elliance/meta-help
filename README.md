@@ -72,6 +72,7 @@ Look for "More specific Types" towards the bottom of the [Organizatoin](http://s
 
 ## Resources
 
+* [The Open Graph protocol](http://ogp.me/)
 * [Facebook Sharing Best Practices](https://developers.facebook.com/docs/sharing/best-practices)
 * [Facebook Open Graph URL Debugger](https://developers.facebook.com/tools/debug)
 * [Twitter Markup Reference](https://dev.twitter.com/cards/markup)
